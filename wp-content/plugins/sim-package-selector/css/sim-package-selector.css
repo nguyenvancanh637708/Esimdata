@@ -1,0 +1,81 @@
+#package-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+}
+
+.popup-content h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.popup-content .button {
+    margin: 10px 5px;
+    border-radius: 9px;
+    border: none;
+}
+.popup {
+    position: fixed;
+    display: flex; justify-content: center; align-items: center;
+    z-index: 1000;
+}
+
+.popup-overlay {
+    position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+    z-index: 900;
+}
+
+.popup-content {
+    background: #fff;
+    border-radius: 8px; padding: 20px;
+    position: relative; z-index: 1001;
+}
+
+.close-popup {
+    position: absolute; 
+    top: 10px; 
+    right: 10px;
+    background: none; 
+    border: none;
+    font-size: 16px; 
+    color: #00AE74; /* Color of the "X" */
+    cursor: pointer;
+    padding: 5px;
+}
+
+/* Remove hover effect */
+.close-popup:hover {
+    color: #00AE74; /* Keep the same color on hover */
+    background: none; /* Ensure no background on hover */
+}
+
+/* Resize image network*/
+.product-item.nha-mang img {
+    width: 70px; /* Đặt chiều rộng mong muốn */
+    height: auto; /* Đặt chiều cao mong muốn */
+    object-fit: contain; /* Giữ tỷ lệ ảnh */
+    display: block;
+    flex-shrink: 0;  
+}
+.product-item.nha-mang img[src*="Saymee.png"]{
+    width: 24px;
+    object-fit: contain; /* Giữ tỷ lệ ảnh */
+    display: block;
+}
+
+.product-item.nha-mang.networks {
+    border: 1px solid #ddd;
+    height: 35px;
+    border-radius: 99px;
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

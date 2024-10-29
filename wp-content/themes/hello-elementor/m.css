@@ -1,0 +1,65 @@
+/* filter fast */
+
+.filter-container-fast {
+    margin-bottom: 20px;
+}
+
+.filter-container-fast form {
+    display: flex;
+    align-items: center;
+    /* Đặt các phần tử nằm trên cùng một hàng */
+    gap: 10px;
+    /* Khoảng cách giữa các phần tử trong form */
+}
+
+.filter-container-fast label {
+    font-weight: bold;
+    margin-right: 10px;
+    /* Khoảng cách giữa nhãn và select */
+}
+
+.filter-container-fast select {
+    padding: 8px 10px;
+    width: auto;
+    /* Đặt độ rộng tự động theo nội dung */
+    min-width: 160px;
+    /* Đặt độ rộng tối thiểu để thanh select không quá nhỏ */
+}
+
+.filter-container-fast button {
+    padding: 5px 10px;
+    background-color: #0078D8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: -80px
+}
+
+.filter-container-fast button:hover {
+    background-color: #0056A3;
+}
+
+
+/* Responsive design for mobile screens */
+
+@media (max-width: 768px) {
+    .filter-container-fast form {
+        flex-direction: column;
+        /* Xếp các phần tử thành cột trên màn hình nhỏ */
+        align-items: flex-start;
+        /* Căn trái các phần tử trong form */
+    }
+    .filter-container-fast label {
+        margin-bottom: 5px;
+        /* Khoảng cách giữa nhãn và select */
+    }
+    .filter-container-fast select,
+    .filter-container-fast button {
+        width: 100%;
+        /* Đặt thanh select và nút button full width trên màn hình nhỏ */
+        max-width: 300px;
+        /* Đặt độ rộng tối đa để không quá rộng */
+    }
+}
