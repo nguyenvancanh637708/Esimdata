@@ -707,3 +707,955 @@ Stack trace:
 [29-Oct-2024 01:45:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
 [29-Oct-2024 01:45:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
 [29-Oct-2024 01:45:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:31:57 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 211
+[29-Oct-2024 03:33:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 214
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:15 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_revenue_report_page" not found or invalid function name in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php on line 324
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:36:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:36:24 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_revenue_report_page" not found or invalid function name in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php on line 324
+[29-Oct-2024 03:37:40 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_revenue_report_page" not found or invalid function name in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php on line 324
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:43 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:43 UTC] PHP Fatal error:  Cannot redeclare update_customer_order_info_html() (previously declared in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\edit-order.php:3) in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 246
+[29-Oct-2024 03:37:46 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_revenue_report_page" not found or invalid function name in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php on line 324
+[29-Oct-2024 03:37:54 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_revenue_report_page" not found or invalid function name in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php on line 324
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:37:56 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:37:59 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_revenue_report_page" not found or invalid function name in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php on line 324
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 219
+[29-Oct-2024 03:38:02 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 222
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:41:37 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:41:55 UTC] WordPress database error Unknown column 'total_amount' in 'field list' for query SELECT SUM(total_amount) as total_revenue FROM wp_esim_orders WHERE created_date >= '2024-10-28' AND created_date <= '2024-10-29 23:59:59' made by do_action('don-hang-esim_page_bao-cao-doanh-thu'), WP_Hook->do_action, WP_Hook->apply_filters, render_revenue_report_page
+[29-Oct-2024 03:42:56 UTC] PHP Parse error:  Unclosed '{' on line 263 in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 382
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 03:44:33 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 03:46:21 UTC] PHP Warning:  Undefined variable $listGoiCuoc in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 03:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php:278
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(324): render_revenue_report_page('')
+#1 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#4 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 03:48:47 UTC] PHP Warning:  Undefined variable $listGoiCuoc in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 03:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php:278
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(324): render_revenue_report_page('')
+#1 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#4 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 03:49:16 UTC] PHP Warning:  Undefined variable $listGoiCuoc in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 03:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php:278
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(324): render_revenue_report_page('')
+#1 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#4 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 04:46:32 UTC] Automatic updates starting...
+[29-Oct-2024 04:46:32 UTC]   Automatic plugin updates starting...
+[29-Oct-2024 04:46:32 UTC]   Automatic plugin updates complete.
+[29-Oct-2024 04:46:32 UTC] Automatic updates complete.
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:06:42 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 200
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 201
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 204
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 207
+[29-Oct-2024 07:07:03 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 208
+[29-Oct-2024 07:21:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_revenue_report_page" not found or invalid function name in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php on line 324
+[29-Oct-2024 07:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_product() in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php:103
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php(78): require_once()
+#1 C:\xampp\htdocs\test1\wp-settings.php(522): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test1\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\test1\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\test1\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 103
+[29-Oct-2024 07:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_product() in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php:103
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php(78): require_once()
+#1 C:\xampp\htdocs\test1\wp-settings.php(522): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test1\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\test1\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\test1\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 103
+[29-Oct-2024 07:39:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_product() in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php:104
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php(78): require_once()
+#1 C:\xampp\htdocs\test1\wp-settings.php(522): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test1\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\test1\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\test1\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 104
+[29-Oct-2024 07:39:49 UTC] PHP Parse error:  Unmatched '}' in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 128
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:52:19 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 07:53:48 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:17:43 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:18:05 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:18:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\edit-order.php on line 229
+[29-Oct-2024 08:18:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\edit-order.php on line 248
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:19:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:22:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:22:24 UTC] WordPress database error Unknown column 'goicuoc_name' in 'field list' for query SELECT goicuoc_name, COUNT(*) AS total_orders, SUM(total_price) AS total_revenue FROM wp_esim_orders WHERE 1=1 GROUP BY goicuoc_name ORDER BY goicuoc_name made by do_action('don-hang-esim_page_bao-cao-doanh-thu'), WP_Hook->do_action, WP_Hook->apply_filters, render_revenue_report_page
+[29-Oct-2024 08:22:31 UTC] WordPress database error Unknown column 'goicuoc_name' in 'field list' for query SELECT goicuoc_name, COUNT(*) AS total_orders, SUM(total_price) AS total_revenue FROM wp_esim_orders WHERE 1=1 GROUP BY goicuoc_name ORDER BY goicuoc_name made by do_action('don-hang-esim_page_bao-cao-doanh-thu'), WP_Hook->do_action, WP_Hook->apply_filters, render_revenue_report_page
+[29-Oct-2024 08:22:37 UTC] WordPress database error Unknown column 'goicuoc_name' in 'field list' for query SELECT goicuoc_name, COUNT(*) AS total_orders, SUM(total_price) AS total_revenue FROM wp_esim_orders WHERE 1=1 AND goicuoc_name IN (343) GROUP BY goicuoc_name ORDER BY goicuoc_name made by do_action('don-hang-esim_page_bao-cao-doanh-thu'), WP_Hook->do_action, WP_Hook->apply_filters, render_revenue_report_page
+[29-Oct-2024 08:23:26 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 112
+[29-Oct-2024 08:23:26 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 112
+[29-Oct-2024 08:23:26 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 112
+[29-Oct-2024 08:23:26 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 112
+[29-Oct-2024 08:40:21 UTC] PHP Warning:  Undefined variable $listGoiCuoc in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 20
+[29-Oct-2024 08:40:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php:20
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(324): render_revenue_report_page('')
+#1 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#4 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 20
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:34 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 202
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$sim_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 203
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$total_amount in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 206
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$notes in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 209
+[29-Oct-2024 08:54:44 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 210
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 08:59:45 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 08:59:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:02:17 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:02:21 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:03:54 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:00 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:14 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 271
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:04:47 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 279
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:05:11 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 269
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 270
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 275
+[29-Oct-2024 09:08:55 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 278
+[29-Oct-2024 09:09:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:09:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:09:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:09:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:09:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:09:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:09:22 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:09:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 169
+[29-Oct-2024 09:09:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 169
+[29-Oct-2024 09:09:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 169
+[29-Oct-2024 09:09:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 169
+[29-Oct-2024 09:09:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 169
+[29-Oct-2024 09:09:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 169
+[29-Oct-2024 09:09:32 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 169
+[29-Oct-2024 09:10:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:10:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:10:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:10:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:10:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:10:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:10:06 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 161
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 259
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 260
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 265
+[29-Oct-2024 09:12:13 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:09 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:30 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-20' at line 1 for query SELECT * FROM wp_esim_orders WHERE 1=1 AND created_date >= '2024-10-22' AND created_date <= '2024-10-29 23:59:59' AND user_id IN (1) ORDER BY created_date DESC LIMIT 20 OFFSET -20 made by do_action('toplevel_page_danh-sach-don-hang'), WP_Hook->do_action, WP_Hook->apply_filters, list_custom_order_html
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:13:52 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:25:27 UTC] PHP Fatal error:  Cannot redeclare list_custom_order_html() (previously declared in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php:86) in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 2
+[29-Oct-2024 09:40:06 UTC] PHP Warning:  Undefined variable $listGoiCuoc in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 19
+[29-Oct-2024 09:40:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php:19
+Stack trace:
+#0 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(324): render_revenue_report_page('')
+#1 C:\xampp\htdocs\test1\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\test1\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\test1\wp-admin\admin.php(259): do_action('don-hang-esim_p...')
+#4 {main}
+  thrown in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 19
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$package_name in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 267
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$phone_number in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 268
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 273
+[29-Oct-2024 09:49:20 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\index.php on line 276
+[29-Oct-2024 09:49:31 UTC] PHP Warning:  Attempt to read property "display_name" on bool in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\edit-order.php on line 244
+[29-Oct-2024 09:49:31 UTC] PHP Warning:  Undefined property: stdClass::$user_note in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\edit-order.php on line 255
+[29-Oct-2024 09:49:31 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\edit-order.php on line 263
+[29-Oct-2024 10:11:09 UTC] PHP Warning:  Undefined property: stdClass::$goicuoc_id in C:\xampp\htdocs\test1\wp-content\plugins\esim-orders-management\revenue-report.php on line 119
+[29-Oct-2024 10:24:53 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\test1\wp-includes\class-wp-customize-widgets.php on line 905
+[30-Oct-2024 01:36:34 UTC] Automatic updates starting...
+[30-Oct-2024 01:36:35 UTC]   Automatic plugin updates starting...
+[30-Oct-2024 01:36:35 UTC]   Automatic plugin updates complete.
+[30-Oct-2024 01:36:35 UTC] Automatic updates complete.
